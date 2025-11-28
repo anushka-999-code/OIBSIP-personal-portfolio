@@ -20,7 +20,7 @@ This repository contains my **Personal Portfolio** website, showcasing my projec
 
 1. Clone the Repository
 
-git clone https://github.com/anushka-999-code/portfolio.git
+git clone https://github.com/anushka-999-code/OIBSIP-personal-portfolio.git
 
 2. Navigate to the Project Folder
 
